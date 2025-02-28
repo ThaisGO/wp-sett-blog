@@ -6,6 +6,7 @@
 </script>
 
 <template>
+    
     <div>
         <div>
             <h1>{{  title }}</h1>
